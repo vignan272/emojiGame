@@ -1,0 +1,11 @@
+.bg {
+  background: linear-gradient(#9796f0, #fbc7d4);
+  height: 100vh;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
+  gap: 10px; /* Adjust spacing between items */
+  padding: 0;
+  list-style-type: none; /* Remove default list styling */
+}
